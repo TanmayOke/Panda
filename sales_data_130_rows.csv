@@ -1,0 +1,131 @@
+Order_ID,Date,Salesperson,Region,Product,Category,Quantity,Unit_Price,Discount_Percent,Sales_Amount,Payment_Method,Customer_Type
+ORD0055,2025-01-01,Ananya,East,Keyboard,Accessories,1,1800,15,1530.0,Cash,New
+ORD0104,2025-01-02,Aditya,West,Desk,Furniture,2,7500,5,14250.0,Net Banking,Returning
+ORD0051,2025-01-13,Ananya,West,Keyboard,Accessories,4,1800,5,6840.0,Debit Card,Returning
+ORD0088,2025-01-15,Neha,East,Smartwatch,Electronics,7,6500,10,40950.0,Credit Card,Returning
+ORD0002,2025-01-17,Aarav,North,Smartphone,Electronics,2,28000,15,47600.0,Credit Card,New
+ORD0116,2025-01-27,Ananya,East,Backpack,Bags,8,1800,15,12240.0,Net Banking,New
+ORD0028,2025-01-28,Priya,North,Monitor,Electronics,7,14500,15,86275.0,Cash,Corporate
+ORD0032,2025-01-31,Rahul,West,Office Chair,Furniture,4,9500,15,32300.0,UPI,Returning
+ORD0099,2025-02-03,Aditya,West,Keyboard,Accessories,8,1800,0,14400.0,UPI,Corporate
+ORD0025,2025-02-04,Aarav,East,Smartphone,Electronics,1,28000,5,26600.0,UPI,Corporate
+ORD0021,2025-02-05,Rahul,South,Smartphone,Electronics,2,28000,15,47600.0,Cash,Corporate
+ORD0107,2025-02-06,Aarav,South,Tablet,Electronics,5,22000,5,104500.0,Debit Card,Corporate
+ORD0109,2025-02-11,Aarav,West,Desk,Furniture,8,7500,15,51000.0,Debit Card,Corporate
+ORD0075,2025-02-12,Aditya,South,Laptop,Electronics,7,65000,0,455000.0,Cash,New
+ORD0005,2025-02-17,Aditya,North,Headphones,Accessories,6,2500,0,15000.0,Debit Card,Returning
+ORD0031,2025-02-17,Ananya,South,Smartphone,Electronics,1,28000,0,28000.0,Cash,Returning
+ORD0042,2025-03-01,Priya,Central,Smartphone,Electronics,3,28000,10,75600.0,Credit Card,Returning
+ORD0036,2025-03-03,Ananya,Central,Smartphone,Electronics,4,28000,15,95200.0,Net Banking,New
+ORD0117,2025-03-04,Aarav,Central,Keyboard,Accessories,8,1800,15,12240.0,Credit Card,Corporate
+ORD0108,2025-03-05,Neha,East,Printer,Electronics,5,12500,15,53125.0,Cash,Returning
+ORD0014,2025-03-12,Neha,North,Monitor,Electronics,6,14500,5,82650.0,UPI,New
+ORD0069,2025-03-12,Rahul,South,Mouse,Accessories,6,900,0,5400.0,Cash,Corporate
+ORD0100,2025-03-18,Vikram,North,Smartwatch,Electronics,1,6500,5,6175.0,Credit Card,New
+ORD0019,2025-03-24,Aarav,Central,Headphones,Accessories,3,2500,10,6750.0,Debit Card,Returning
+ORD0074,2025-03-26,Neha,South,Monitor,Electronics,6,14500,15,73950.0,Net Banking,Corporate
+ORD0130,2025-03-27,Vikram,North,Smartphone,Electronics,2,28000,15,47600.0,UPI,Returning
+ORD0060,2025-03-28,Priya,East,Smartwatch,Electronics,4,6500,15,22100.0,Net Banking,Corporate
+ORD0027,2025-04-08,Priya,North,Headphones,Accessories,8,2500,15,17000.0,Cash,Returning
+ORD0029,2025-04-09,Ananya,Central,Mouse,Accessories,2,900,5,1710.0,Cash,New
+ORD0082,2025-04-12,Priya,Central,Backpack,Bags,7,1800,15,10710.0,Credit Card,New
+ORD0043,2025-04-15,Vikram,Central,Keyboard,Accessories,4,1800,10,6480.0,Cash,Returning
+ORD0022,2025-04-19,Ananya,East,Tablet,Electronics,5,22000,15,93500.0,Cash,Corporate
+ORD0012,2025-04-19,Neha,West,Smartphone,Electronics,4,28000,10,100800.0,Cash,New
+ORD0026,2025-04-20,Rahul,Central,Headphones,Accessories,5,2500,15,10625.0,Net Banking,Returning
+ORD0073,2025-04-23,Vikram,West,Printer,Electronics,4,12500,15,42500.0,Cash,New
+ORD0078,2025-04-25,Priya,North,Desk,Furniture,1,7500,10,6750.0,UPI,New
+ORD0011,2025-04-28,Aarav,East,Smartwatch,Electronics,6,6500,0,39000.0,Cash,Returning
+ORD0110,2025-04-28,Aarav,East,Keyboard,Accessories,1,1800,0,1800.0,Net Banking,New
+ORD0124,2025-04-30,Aditya,North,Printer,Electronics,4,12500,15,42500.0,Debit Card,Corporate
+ORD0061,2025-05-01,Vikram,South,Smartwatch,Electronics,6,6500,0,39000.0,Credit Card,New
+ORD0048,2025-05-02,Rahul,South,Desk,Furniture,7,7500,5,49875.0,Cash,New
+ORD0079,2025-05-03,Rahul,West,Headphones,Accessories,1,2500,5,2375.0,UPI,Corporate
+ORD0090,2025-05-04,Aditya,West,Laptop,Electronics,4,65000,0,260000.0,Net Banking,New
+ORD0077,2025-05-10,Priya,West,Monitor,Electronics,5,14500,15,61625.0,UPI,Corporate
+ORD0067,2025-05-13,Ananya,East,Printer,Electronics,8,12500,15,85000.0,Net Banking,Returning
+ORD0038,2025-05-16,Aditya,South,Printer,Electronics,6,12500,5,71250.0,Debit Card,Returning
+ORD0001,2025-05-21,Ananya,South,Smartwatch,Electronics,2,6500,0,13000.0,Credit Card,Corporate
+ORD0121,2025-05-22,Aditya,East,Desk,Furniture,3,7500,0,22500.0,Net Banking,Returning
+ORD0044,2025-05-22,Aarav,North,Laptop,Electronics,2,65000,15,110500.0,Debit Card,New
+ORD0111,2025-05-23,Rahul,Central,Tablet,Electronics,8,22000,15,149600.0,Cash,Corporate
+ORD0105,2025-05-28,Vikram,West,Keyboard,Accessories,1,1800,5,1710.0,UPI,Corporate
+ORD0096,2025-06-04,Aarav,Central,Headphones,Accessories,6,2500,5,14250.0,Credit Card,Returning
+ORD0020,2025-06-07,Ananya,North,Laptop,Electronics,2,65000,10,117000.0,Credit Card,Corporate
+ORD0081,2025-06-09,Priya,Central,Printer,Electronics,2,12500,5,23750.0,UPI,Returning
+ORD0034,2025-06-10,Aarav,North,Headphones,Accessories,1,2500,0,2500.0,Net Banking,Returning
+ORD0094,2025-06-11,Priya,Central,Headphones,Accessories,2,2500,5,4750.0,Credit Card,New
+ORD0114,2025-06-11,Vikram,East,Laptop,Electronics,8,65000,0,520000.0,UPI,Returning
+ORD0076,2025-06-17,Ananya,West,Laptop,Electronics,5,65000,15,276250.0,Debit Card,Returning
+ORD0128,2025-06-18,Aditya,East,Mouse,Accessories,7,900,0,6300.0,Cash,Corporate
+ORD0089,2025-06-24,Vikram,Central,Headphones,Accessories,6,2500,10,13500.0,Debit Card,Corporate
+ORD0040,2025-06-28,Priya,South,Desk,Furniture,5,7500,5,35625.0,Debit Card,Returning
+ORD0112,2025-06-28,Aditya,East,Office Chair,Furniture,2,9500,15,16150.0,Debit Card,Corporate
+ORD0093,2025-06-30,Neha,East,Mouse,Accessories,7,900,10,5670.0,Debit Card,Returning
+ORD0072,2025-06-30,Vikram,West,Monitor,Electronics,8,14500,0,116000.0,Cash,Corporate
+ORD0047,2025-07-03,Ananya,South,Keyboard,Accessories,6,1800,0,10800.0,UPI,Returning
+ORD0080,2025-07-08,Rahul,Central,Headphones,Accessories,8,2500,10,18000.0,Net Banking,Corporate
+ORD0046,2025-07-09,Rahul,West,Smartphone,Electronics,3,28000,0,84000.0,Credit Card,New
+ORD0008,2025-07-14,Vikram,West,Smartphone,Electronics,4,28000,0,112000.0,Debit Card,New
+ORD0057,2025-07-26,Vikram,Central,Smartwatch,Electronics,7,6500,10,40950.0,Credit Card,New
+ORD0113,2025-07-30,Neha,East,Smartphone,Electronics,3,28000,10,75600.0,Cash,Corporate
+ORD0115,2025-07-31,Aarav,South,Desk,Furniture,1,7500,15,6375.0,Net Banking,Returning
+ORD0070,2025-08-01,Aditya,East,Tablet,Electronics,4,22000,0,88000.0,Net Banking,Returning
+ORD0071,2025-08-04,Aditya,Central,Monitor,Electronics,1,14500,5,13775.0,UPI,Corporate
+ORD0033,2025-08-05,Neha,South,Keyboard,Accessories,8,1800,10,12960.0,Credit Card,Returning
+ORD0064,2025-08-06,Ananya,South,Printer,Electronics,1,12500,0,12500.0,Net Banking,Returning
+ORD0106,2025-08-06,Priya,Central,Headphones,Accessories,5,2500,5,11875.0,Credit Card,Corporate
+ORD0059,2025-08-09,Sneha,West,Keyboard,Accessories,5,1800,5,8550.0,Cash,Returning
+ORD0017,2025-08-11,Rahul,West,Mouse,Accessories,2,900,10,1620.0,UPI,Corporate
+ORD0054,2025-08-12,Priya,West,Monitor,Electronics,6,14500,10,78300.0,Net Banking,New
+ORD0068,2025-08-14,Priya,East,Smartwatch,Electronics,4,6500,10,23400.0,Credit Card,Returning
+ORD0126,2025-08-14,Priya,Central,Desk,Furniture,6,7500,0,45000.0,Cash,New
+ORD0045,2025-08-15,Aditya,Central,Smartwatch,Electronics,5,6500,5,30875.0,UPI,New
+ORD0091,2025-08-18,Aarav,North,Printer,Electronics,8,12500,15,85000.0,Debit Card,New
+ORD0087,2025-08-19,Ananya,West,Headphones,Accessories,2,2500,10,4500.0,Net Banking,Corporate
+ORD0120,2025-08-22,Rahul,West,Office Chair,Furniture,8,9500,5,72200.0,Credit Card,Corporate
+ORD0065,2025-08-22,Rahul,West,Laptop,Electronics,4,65000,0,260000.0,Net Banking,Corporate
+ORD0039,2025-08-23,Priya,North,Mouse,Accessories,2,900,0,1800.0,Net Banking,New
+ORD0006,2025-08-24,Priya,West,Backpack,Bags,5,1800,0,9000.0,UPI,Corporate
+ORD0030,2025-08-25,Ananya,North,Monitor,Electronics,3,14500,10,39150.0,Cash,Corporate
+ORD0010,2025-08-25,Aditya,East,Tablet,Electronics,4,22000,5,83600.0,Net Banking,New
+ORD0086,2025-08-27,Aditya,Central,Printer,Electronics,5,12500,15,53125.0,Debit Card,Returning
+ORD0050,2025-08-29,Ananya,South,Smartphone,Electronics,7,28000,0,196000.0,Cash,Returning
+ORD0062,2025-09-01,Priya,West,Laptop,Electronics,1,65000,5,61750.0,Cash,Corporate
+ORD0098,2025-09-03,Neha,East,Backpack,Bags,5,1800,15,7650.0,Credit Card,New
+ORD0063,2025-09-11,Aditya,South,Backpack,Bags,4,1800,15,6120.0,Credit Card,Corporate
+ORD0119,2025-09-13,Vikram,Central,Office Chair,Furniture,2,9500,5,18050.0,Debit Card,Returning
+ORD0018,2025-09-17,Priya,East,Printer,Electronics,5,12500,5,59375.0,Net Banking,Corporate
+ORD0084,2025-09-17,Sneha,North,Smartwatch,Electronics,6,6500,0,39000.0,Cash,Returning
+ORD0035,2025-09-18,Priya,South,Desk,Furniture,3,7500,0,22500.0,UPI,Corporate
+ORD0023,2025-09-22,Neha,North,Smartwatch,Electronics,6,6500,15,33150.0,Credit Card,New
+ORD0101,2025-09-25,Aditya,West,Desk,Furniture,7,7500,5,49875.0,Cash,Returning
+ORD0123,2025-10-10,Aditya,West,Office Chair,Furniture,6,9500,10,51300.0,Debit Card,New
+ORD0118,2025-10-10,Aditya,North,Tablet,Electronics,5,22000,0,110000.0,Credit Card,New
+ORD0013,2025-10-15,Vikram,Central,Keyboard,Accessories,3,1800,5,5130.0,Cash,Corporate
+ORD0083,2025-10-17,Aarav,East,Printer,Electronics,5,12500,0,62500.0,Net Banking,Returning
+ORD0102,2025-10-19,Aarav,Central,Backpack,Bags,7,1800,10,11340.0,UPI,New
+ORD0053,2025-10-25,Vikram,North,Smartphone,Electronics,5,28000,5,133000.0,UPI,Corporate
+ORD0122,2025-10-28,Neha,South,Laptop,Electronics,5,65000,10,292500.0,Cash,Corporate
+ORD0095,2025-10-29,Vikram,North,Headphones,Accessories,8,2500,10,18000.0,Credit Card,Returning
+ORD0024,2025-10-29,Ananya,Central,Smartphone,Electronics,6,28000,0,168000.0,Credit Card,New
+ORD0015,2025-11-02,Priya,West,Tablet,Electronics,3,22000,15,56100.0,Cash,Corporate
+ORD0066,2025-11-10,Aditya,Central,Backpack,Bags,6,1800,15,9180.0,Cash,New
+ORD0041,2025-11-10,Aarav,Central,Tablet,Electronics,8,22000,10,158400.0,Debit Card,Corporate
+ORD0058,2025-11-12,Vikram,West,Monitor,Electronics,7,14500,5,96425.0,Net Banking,New
+ORD0129,2025-11-20,Vikram,South,Laptop,Electronics,2,65000,5,123500.0,UPI,Returning
+ORD0085,2025-11-22,Neha,South,Smartphone,Electronics,7,28000,10,176400.0,Cash,New
+ORD0052,2025-11-25,Aditya,Central,Smartphone,Electronics,5,28000,10,126000.0,Debit Card,New
+ORD0003,2025-11-29,Aditya,South,Desk,Furniture,1,7500,5,7125.0,Cash,Corporate
+ORD0127,2025-12-02,Rahul,North,Printer,Electronics,3,12500,15,31875.0,Cash,Returning
+ORD0037,2025-12-03,Sneha,East,Backpack,Bags,2,1800,15,3060.0,Credit Card,Corporate
+ORD0103,2025-12-05,Priya,South,Smartwatch,Electronics,4,6500,10,23400.0,Credit Card,New
+ORD0056,2025-12-06,Priya,East,Smartwatch,Electronics,6,6500,10,35100.0,Net Banking,Returning
+ORD0092,2025-12-06,Sneha,West,Monitor,Electronics,4,14500,10,52200.0,Net Banking,Corporate
+ORD0125,2025-12-06,Rahul,West,Office Chair,Furniture,7,9500,15,56525.0,UPI,New
+ORD0049,2025-12-09,Ananya,East,Tablet,Electronics,6,22000,15,112200.0,Credit Card,Corporate
+ORD0009,2025-12-10,Vikram,North,Mouse,Accessories,6,900,5,5130.0,Net Banking,Corporate
+ORD0016,2025-12-15,Priya,Central,Office Chair,Furniture,5,9500,0,47500.0,Debit Card,Corporate
+ORD0097,2025-12-24,Rahul,West,Laptop,Electronics,1,65000,10,58500.0,UPI,New
+ORD0004,2025-12-24,Aditya,East,Keyboard,Accessories,1,1800,5,1710.0,Debit Card,New
+ORD0007,2025-12-27,Priya,North,Keyboard,Accessories,6,1800,5,10260.0,Credit Card,Returning
