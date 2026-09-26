@@ -10,11 +10,7 @@ data={
 
 df=pd.DataFrame(data)
 
-#adding one column
-df["Bonus"]=df["Salary"]*10
+#drop
+df.drop(columns=["Performance score"],inplace=True)
 print(df)
 
-#using Insert(loc,"column name",data)
-
-df.insert(0,"Employee_Id",[10 ,20 ,30 ,40 ,50])
-print(df)

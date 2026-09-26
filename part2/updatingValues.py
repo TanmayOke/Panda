@@ -9,12 +9,13 @@ data={
 }
 
 df=pd.DataFrame(data)
-
-#adding one column
-df["Bonus"]=df["Salary"]*10
 print(df)
 
-#using Insert(loc,"column name",data)
-
-df.insert(0,"Employee_Id",[10 ,20 ,30 ,40 ,50])
+#df.loc[row_index,"Column name"]=new data
+df.loc[3,"Salary"]=55000
 print(df)
+
+df["Salary"]=df["Salary"]*1.5
+print(df)
+
+#how to change values of multiple columns
